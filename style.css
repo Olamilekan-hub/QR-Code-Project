@@ -671,3 +671,10 @@ video {
   color: rgb(126 128 136 / var(--tw-text-opacity));
 }
 
+@media (min-width: 768px){
+  .md\:text-2xl{
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+}
+
